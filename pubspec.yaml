@@ -1,0 +1,14 @@
+name: dart_replicate
+description: It is a dart client for Replicate.
+version: 1.0.0
+repository: https://github.com/mu-fazil-vk/dart-replicate
+homepage: https://github.com/mu-fazil-vk/dart-replicate#Readme.md
+
+environment:
+  sdk: '>=2.19.5 <3.0.0'
+
+dev_dependencies:
+  lints: ^2.0.0
+  test: ^1.21.0
+dependencies:
+  http: ^0.13.6
